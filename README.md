@@ -7,10 +7,10 @@
 
 ## 🚀 About Me
 
-- 🤖 Building AI-powered applications using **Google ADK, Gemini API, and Python**
-- 💻 Interested in **Artificial Intelligence, Database Systems, and Software Engineering**
-- 🌱 Continuously learning and building real-world AI applications
-- 🚀 Actively seeking opportunities to build impactful software and AI solutions
+- 🤖 Building AI-powered applications using **Google ADK, Gemini API, and Python**.
+- 💻 Interested in **Artificial Intelligence, Database Systems, and Software Development**.
+- 🌱 Currently learning **Linux Systems Programming, Shell Scripting, and Django** to strengthen my software development skills.
+- 🚀 Passionate about building impactful software and AI solutions.
 
 ---
 
@@ -34,26 +34,26 @@
 ### Databases
 - MySQL
 
-### Currently Learning
-- Linux Programming & Shell Scripting
-- Django
-
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 AI Internship & Career Mentor Agent
-Multi-agent AI application built using **Google ADK, Gemini API, and MCP** to provide internship recommendations, career roadmaps, and interview guidance.
+### 🤖 [AI Internship & Career Mentor Agent](https://github.com/purushothaman36662-gif/AI-Internship-Career-Mentor-Agent)
+
+> Multi-agent AI application that provides **internship recommendations, personalized career roadmaps, and interview guidance** using **Google ADK**, **Gemini API**, and **MCP**.
+
+`Python` • `Google ADK` • `Gemini API` • `MCP`
 
 ### 🎤 AI Interview Simulator *(Coming Soon)*
-AI-powered interview practice platform that provides personalized interview questions and feedback.
+
+> AI-powered interview practice platform that generates personalized interview questions and provides constructive feedback to help users improve their interview skills.
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/purushothaman-govindarajan-7573992b5/
-- 📧 Email: purushothaman36662@gmail.com
+- 💼 LinkedIn: [Purushothaman Govindarajan](https://www.linkedin.com/in/purushothaman-govindarajan-7573992b5/)
+- 📧 Email: [purushothaman36662@gmail.com](mailto:purushothaman36662@gmail.com)
 
 ---
 
