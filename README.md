@@ -52,9 +52,9 @@ AI-powered interview practice platform that provides personalized interview ques
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=purushothaman36662-gif&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purushothaman36662-gif&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=purushothaman36662-gif&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purushothaman36662-gif&layout=compact&theme=tokyonight)
 
 ---
 
