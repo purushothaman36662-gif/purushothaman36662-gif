@@ -34,7 +34,7 @@
 ### Databases
 - MySQL
 
-### 🌱 Currently Learning
+### Currently Learning
 - Linux Programming & Shell Scripting
 - Django
 
