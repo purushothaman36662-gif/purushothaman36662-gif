@@ -60,8 +60,8 @@ AI-powered interview practice platform that provides personalized interview ques
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/purushothaman-govindarajan-7573992b5/
+- 📧 Email: purushothaman36662@gmail.com
 
 ---
 
