@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi there, I'm Purushothaman Govindarajan 👋
 
 🎓 **B.Tech Information Technology Student** @ SASTRA Deemed University (2028)  
